@@ -30,9 +30,9 @@ make
 - z-axe increase/decrease
 - deplacement
 
-<img alt="sample" src="./readme_img/42down.png" width="75%" title="profile">
-<img alt="sample" src="./readme_img/42up.png" width="75%" title="profile">
-<img alt="sample" src="./readme_img/rotation.png" width="75%" title="profile">
-<img alt="sample" src="./readme_img/z-axe.png" width="75%" title="profile">
-<img alt="sample" src="./readme_img/zoom.png" width="75%" title="profile">
-<img alt="sample" src="./readme_img/mars.png" width="75%" title="profile">
+<img alt="sample" src="./readme_img/42down.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/42up.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/rotation.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/z-axe.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/zoom.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/mars.png" width="100%" title="profile">
