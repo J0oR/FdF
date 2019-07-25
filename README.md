@@ -4,10 +4,7 @@
 This project consists in graphically creating the schematic representation ("wireframe") of a terrain in relief by
 connecting different points (x, y, z) by segments.
 The coordinates of the field will be stored in a file passed in parameter.
-
-## Getting Started
-
-Follow the instructions to get a copy of the project and run it on your local machine for development and testing purposes.
+The program will handle only squared or rectangular maps.
 
 ### Prerequisites
 
