@@ -1,5 +1,4 @@
-# FdF
-###### Ecole 42 - First project of the graphic path
+# FdF ###### Ecole 42 - First project of the graphic path
 
 This project consists in graphically creating the schematic representation ("wireframe") of a terrain in relief by
 connecting different points (x, y, z) by segments.
