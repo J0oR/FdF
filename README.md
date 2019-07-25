@@ -27,6 +27,18 @@ make
 - z-axe increase/decrease
 - deplacement
 
+### Developed with
+
+```
+
+C
+
+MinilibX (Ecole 42 graphic library)
+
+```
+
+### Gallery
+
 <img alt="sample" src="./readme_img/42down.png" width="100%" title="profile">
 <img alt="sample" src="./readme_img/42up.png" width="100%" title="profile">
 <img alt="sample" src="./readme_img/rotation.png" width="100%" title="profile">
